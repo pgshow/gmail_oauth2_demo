@@ -1,3 +1,5 @@
+Gmail 5月的政策取消简单登录协议，以前直接用账号密码自动发邮件的方法已经没法用了，必须要使用 Oauth2.0，以下是申请使用办法。
+
 ## 如何申请 Gmail Oauth2.0
 - 参考 https://www.youtube.com/watch?v=8RaSbyk-DJY 的前5分30秒, 但是不要申请为 Web App, 而是直接申请为 **桌面应用**。
 - API申请地址: https://console.cloud.google.com/
